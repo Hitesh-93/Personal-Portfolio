@@ -1,0 +1,38 @@
+[
+    {
+        "title": "T-Shop",
+        "imageSrc": "project.png",
+        "description": "Online website for selling t-shirts of various brands, size, colors & many more...",
+        "skills": [
+            "Python",
+            "Django",
+            "Bootstrap"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/Hitesh-93/Hitesh-93-T-Shop_django_python.git"
+    },
+    {
+        "title": "Personal Portfolio",
+        "imageSrc": "portfolio.PNG",
+        "description": "Personal fully responsive portfolio website. All about my personal info...",
+        "skills": [
+            "React",
+            "HTML",
+            "CSS"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Online Restaurant",
+        "imageSrc": "restaurant.PNG",
+        "description": "Restaurant wesite for ordering fresh and helthy food. This is static website.",
+        "skills": [
+            "React",
+            "CSS",
+            "MUI"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/Hitesh-93/react-restaurant.git"
+    }
+]
