@@ -55,7 +55,7 @@
 }
 
 .heroImg {
-    width: 40%;
+    width: 35%;
     z-index: 1;
 
     /* Extra Code */
@@ -119,4 +119,11 @@
     .content {
         align-items: center;
     }
+
+    /* new addition */
+    .title {
+        font-size: 52px;
+        font-weight: 700;
+    }
+
 }
