@@ -8,7 +8,7 @@
             "Django",
             "Bootstrap"
         ],
-        "demo": "https://www.example.com",
+        "demo": "#",
         "source": "https://github.com/Hitesh-93/Hitesh-93-T-Shop_django_python.git"
     },
     {
@@ -20,7 +20,7 @@
             "HTML",
             "CSS"
         ],
-        "demo": "https://www.example.com",
+        "demo": "#",
         "source": "https://github.com/Hitesh-93/Personal-Portfolio.git"
     },
     {
@@ -32,7 +32,7 @@
             "CSS",
             "MUI"
         ],
-        "demo": "https://www.example.com",
+        "demo": "#",
         "source": "https://github.com/Hitesh-93/react-restaurant.git"
     }
 ]
