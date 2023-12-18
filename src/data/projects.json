@@ -1,7 +1,7 @@
 [
     {
         "title": "T-Shop",
-        "imageSrc": "project.png",
+        "imageSrc": "t-shop.PNG",
         "description": "Online website for selling t-shirts of various brands, size, colors & many more...",
         "skills": [
             "Python",
