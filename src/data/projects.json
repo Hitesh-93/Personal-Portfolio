@@ -32,7 +32,7 @@
             "CSS",
             "MUI"
         ],
-        "demo": "#",
+        "demo": "https://react-restaurant-rho.vercel.app/",
         "source": "https://github.com/Hitesh-93/react-restaurant.git"
     }
 ]
