@@ -20,10 +20,10 @@ const About = () => {
                         {/* <img src={getImageUrl("indicator.png")} alt="Cursor icon" /> */}
                         <div className={styles.aboutItemText}>
                             {/* <h3>Frontend Developer</h3> */}
-                            <p>
+                            {/* <p>
                                 I'm a <q>Frontend Developer</q> having good understanding and knowledge of web technologies
                                 using HTML, CSS, Bootstrap, JavaScript, ReactJs.
-                            </p><br />
+                            </p><br /> */}
                             <p>
                                 Seeking an opportunity to work in an environment, which encourage me for my professional
                                 growth and enhance my skills and knowledge.
