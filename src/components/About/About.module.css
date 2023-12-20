@@ -75,9 +75,9 @@
         flex-direction: column;
     }
 
-    .aboutImage {
+    /* .aboutImage {
         display: none;
-    }
+    } */
 
     .aboutItems {
         margin-top: 29px;
