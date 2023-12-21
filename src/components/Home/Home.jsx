@@ -11,7 +11,7 @@ const Home = () => {
             <div className={styles.content}>
                 <p className={styles.text}> Hi, I'm</p>
                 <h1 className={styles.title} >Hitesh Dahale</h1>
-                <p className={styles.description}>FullStack Developer.....!</p>
+                <p className={styles.description}>Frontend Developer.....!</p>
                 <a className={styles.contactBtn} href={Resume}>Download cv</a>
             </div>
             <img className={styles.heroImg} src={getImageUrl('photo.png')} alt="MyPhoto" />
