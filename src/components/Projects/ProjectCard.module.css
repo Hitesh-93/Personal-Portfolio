@@ -37,14 +37,16 @@
     flex-wrap: wrap;
     gap: 6px;
     list-style: none;
+    justify-content: center;
 }
 
 .skill {
-    font-size: 25px;
-    font-weight: 400;
+    font-size: 20px;
+    font-weight: 300;
     border-radius: 100px;
     background: var(--color-dark);
-    padding: 2px 22px;
+    padding: 2px 10px;
+
 }
 
 .links {
@@ -57,9 +59,14 @@
 .link {
     text-decoration: none;
     color: var(--color-text);
-    font-size: 30px;
-    font-weight: 600;
+    font-size: 27px;
+    font-weight: 500;
     border-radius: 100px;
     background: var(--color-primary);
     padding: 1px 22px;
+}
+
+
+.link:hover {
+    background: var(--color-dark);
 }
