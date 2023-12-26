@@ -6,14 +6,14 @@ import { getImageUrl } from '../../utils'
 
 const Skills = () => {
     return (
-        <section className={styles.skillcontainer} id="skills">
-            <h2 className={styles.skilltitle}>Skills</h2>
-            <div className={styles.skillcontent}>
+        <section className={styles.container} id="skills">
+            <h2 className={styles.title}>Skills</h2>
+            <div className={styles.content}>
                 <div className={styles.skills}>
                     {skills.map((skill, id) => {
                         return (
                             <div key={id} className={styles.skill}>
-                                <div className={styles.skillImageContainer}>
+                                <div className={styles.imageContainer}>
                                     <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
                                 </div>
                                 <p>{skill.title}</p>
